@@ -33,7 +33,6 @@
 #我是输入了一行
 #git config --global credential.helper store
 #然后再次push的时候在输入一次，往后就不用在输入了
-<<<<<<< HEAD
 #创建
 #git branch newbranch
 #查看分支
@@ -55,4 +54,3 @@
 
 
 #学习总结
->>>>>>> 48057f36592945a0cc168418f4a16c2bde19a961
