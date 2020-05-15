@@ -33,4 +33,20 @@
 #我是输入了一行
 #git config --global credential.helper store
 #然后再次push的时候在输入一次，往后就不用在输入了
-
+#创建
+#git branch newbranch
+#查看分支
+#git branch
+#切换分支
+#git checkout new branch
+#提交改动到当前分支
+#git add .
+#git commit -a
+#查看状态
+#git status
+#切回主分支
+#git checkout master
+#将新分支提交的改动合并到主分支上
+#git merge new branch
+#删除分支
+#git branch -D newbranch

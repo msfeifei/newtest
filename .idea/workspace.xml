@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e84ad513-705a-4e47-84dd-8a2aa0f87c05" name="Default Changelist" comment="" />
+    <list default="true" id="e84ad513-705a-4e47-84dd-8a2aa0f87c05" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AA.py" beforeDir="false" afterPath="$PROJECT_DIR$/AA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text.py" beforeDir="false" afterPath="$PROJECT_DIR$/text.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,12 +208,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.AA" />
-      <item itemvalue="Python.CC" />
       <item itemvalue="Python.python test" />
-      <item itemvalue="Python.ru" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.CC" />
       <item itemvalue="Python.xx" />
+      <item itemvalue="Python.ru" />
+      <item itemvalue="Python.AA" />
     </list>
     <recent_temporary>
       <list>
@@ -244,6 +248,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="477" y="202" key="#Inspections" timestamp="1589265943327">
