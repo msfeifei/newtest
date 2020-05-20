@@ -8,10 +8,10 @@
 #global是修饰的是全局的用户
 #若需设置单个用户，可在项目目录下输入
 #git config username "MengruHan"
-# git config email "ru.han#openapply.com"
+# git config email "ru.han@openapply.com"
 #查看当前用户下的信息
 #git config — list
-#然后在GitHub创建一个库（python-）
+#然后在GitHub创建一个库
 #cd 到项目目录下
 # git init 创建一个仓
 #git add  AA.py项目里面的文件添加到缓存中
@@ -30,7 +30,7 @@
 #然后按照步骤创建了一个Personal access token
 #然后push的时候输入账号跟这个token就可以了
 #2.push时一直需要输入账号和密码
-#我是输入了一行
+#我是在项目目录下输入了一行
 #git config --global credential.helper store
 #然后再次push的时候在输入一次，往后就不用在输入了
 #创建
