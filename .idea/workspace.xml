@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e84ad513-705a-4e47-84dd-8a2aa0f87c05" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AA.py" beforeDir="false" afterPath="$PROJECT_DIR$/AA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text.py" beforeDir="false" afterPath="$PROJECT_DIR$/text.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +57,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.AA">
+  <component name="RunManager" selected="Python.text">
     <configuration name="AA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,6 +121,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="bb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="python test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,28 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../test" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="xx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,7 +196,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xx.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,20 +206,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.python test" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.CC" />
-      <item itemvalue="Python.xx" />
-      <item itemvalue="Python.ru" />
       <item itemvalue="Python.AA" />
+      <item itemvalue="Python.CC" />
+      <item itemvalue="Python.bb" />
+      <item itemvalue="Python.python test" />
+      <item itemvalue="Python.ru" />
+      <item itemvalue="Python.text" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.text" />
+        <item itemvalue="Python.bb" />
         <item itemvalue="Python.AA" />
         <item itemvalue="Python.CC" />
         <item itemvalue="Python.ru" />
-        <item itemvalue="Python.xx" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -263,22 +261,22 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="631" y="228" key="#com.intellij.ide.macro.MacrosDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1589264713455" />
-    <state width="1542" height="267" key="GridCell.Tab.0.bottom" timestamp="1589523317025">
+    <state width="1542" height="267" key="GridCell.Tab.0.bottom" timestamp="1589529681171">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1542" height="267" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1589523317025" />
-    <state width="1542" height="267" key="GridCell.Tab.0.center" timestamp="1589523317025">
+    <state width="1542" height="267" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1589529681171" />
+    <state width="1542" height="267" key="GridCell.Tab.0.center" timestamp="1589529681170">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1542" height="267" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1589523317025" />
-    <state width="1542" height="267" key="GridCell.Tab.0.left" timestamp="1589523317024">
+    <state width="1542" height="267" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1589529681170" />
+    <state width="1542" height="267" key="GridCell.Tab.0.left" timestamp="1589529681170">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1542" height="267" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1589523317024" />
-    <state width="1542" height="267" key="GridCell.Tab.0.right" timestamp="1589523317025">
+    <state width="1542" height="267" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1589529681170" />
+    <state width="1542" height="267" key="GridCell.Tab.0.right" timestamp="1589529681171">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1542" height="267" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1589523317025" />
+    <state width="1542" height="267" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1589529681171" />
     <state width="1474" height="330" key="GridCell.Tab.1.bottom" timestamp="1589349466089">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
